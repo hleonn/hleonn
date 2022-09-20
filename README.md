@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <!--
-**hleonn/hleonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on e-Commerce Full Stack Mern
+- 😄 I’m currently learning MERN, Data Science & IA
+- 🤔 I’m looking to collaborate on Industry 4.0, Additive Manufacturing, IOT & digital transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
