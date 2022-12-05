@@ -3,9 +3,10 @@
 - 🟡 I’m currently working on MERN projects (MongoDB, Express, React, Node JS)
 - ⚪️ I enjoy research & development in Robotics, Print 3D, Web development, Big Data 
 - 🔵 I’m looking to collaborate on **GitHub**.
-- 🟢 PhD in Science (Renewable Energy & Sustainability)
-- 🟢 Master in Mechanical Eng (Finite Element & Optimization)
-- 🟢 Mechanical Eng (Automation & Robotics)
+- 🟢 Full Stack Web Developer MERN...IRONHACK
+- 🟢 PhD in Science (Renewable Energy & Sustainability)...CINVESTAV
+- 🟢 Master in Mechanical Eng (Finite Element & Optimization)...UNAM
+- 🟢 Mechanical Eng (Automation & Robotics)...UNAM
 
 ## 💼 Tech Stack
 
