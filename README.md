@@ -10,9 +10,14 @@
 
 ## 💼 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20CSS-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F936C9?&style=for-the-badge&logo=figma&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-success?&style=for-the-badge&logo=mongodb&logoColor=black) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20CSS-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; ![Figma](https://img.shields.io/badge/-Figma-F936C9?&style=for-the-badge&logo=figma&logoColor=black) &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-success?&style=for-the-badge&logo=mongodb&logoColor=black) &nbsp; 
 
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white) ![Node](https://img.shields.io/badge/node-grey?&style=for-the-badge&logo=nodedotjs&logoColor=green)![Postman](https://img.shields.io/badge/postman-F05032?&style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/insomnia-FFFFFF?&style=for-the-badge&logo=insomnia&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow) &nbsp;![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white) &nbsp; ![Node](https://img.shields.io/badge/node-grey?&style=for-the-badge&logo=nodedotjs&logoColor=green) &nbsp;![Postman](https://img.shields.io/badge/postman-F05032?&style=for-the-badge&logo=postman&logoColor=white) &nbsp; ![Insomnia](https://img.shields.io/badge/insomnia-FFFFFF?&style=for-the-badge&logo=insomnia&logoColor=A78BFA) &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
+
+- 🧩 Contribution
+[![hleonn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hleonn&theme=react)
+
 
 ## 💬 Connect with me : 
 
