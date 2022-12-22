@@ -15,8 +15,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow) &nbsp;![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white) &nbsp; ![Node](https://img.shields.io/badge/node-grey?&style=for-the-badge&logo=nodedotjs&logoColor=green) &nbsp;![Postman](https://img.shields.io/badge/postman-F05032?&style=for-the-badge&logo=postman&logoColor=white) &nbsp; ![Insomnia](https://img.shields.io/badge/insomnia-FFFFFF?&style=for-the-badge&logo=insomnia&logoColor=A78BFA) &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 
-- 🧩 Contribution
-[![hleonn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hleonn&theme=github-compact)
+- 🧩 in construction!
+[![hleonn's github activity in construction!](https://github-readme-activity-graph.cyclic.app/graph?username=hleonn&theme=github-compact)
 
 
 ## 💬 Connect with me : 
