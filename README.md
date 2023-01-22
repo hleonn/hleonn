@@ -8,7 +8,7 @@
 - 🟢 Master in Mechanical Eng (Finite Element & Optimization)...UNAM
 - 🟢 Mechanical Eng (Automation & Robotics)...UNAM
 
-## 💻 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 30px>
+## 💻 `Tech Stack` <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 30px>
  
 
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black) &nbsp; ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
@@ -16,11 +16,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow) &nbsp;![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white) &nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white) &nbsp; ![Node](https://img.shields.io/badge/node-grey?&style=for-the-badge&logo=nodedotjs&logoColor=green) &nbsp;![Postman](https://img.shields.io/badge/postman-F05032?&style=for-the-badge&logo=postman&logoColor=white) &nbsp; ![Insomnia](https://img.shields.io/badge/insomnia-FFFFFF?&style=for-the-badge&logo=insomnia&logoColor=A78BFA) &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
 
-- 🧩 in construction!
+- 🧩 `in construction!`
 [![hleonn's github activity in construction!](https://github-readme-activity-graph.cyclic.app/graph?username=hleonn&theme=github-compact)
 
 
-## 💬🌐 Connect with me! : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30px"> 
+## 💬🌐 `Connect with me! :` <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="30px"> 
 
 <a href="mailto:tatoleon2020@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
